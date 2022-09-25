@@ -3,7 +3,7 @@
 
 This project is developed as part of assignment of Full Stack JavaScript Course by [iNeuron.ai](https://ineuron.ai/).
 
-- In this project, we got the design of web page for a restaurant home page and we have to code it using html and css.
+- In this project, we got the design of web page for a digital marketing home page and we have to code it using html and css.
 
 # Tech Stack Used:
 ![HTML Badge](https://img.shields.io/static/v1?label&message=HTML&color=red) ![HTML Badge](https://img.shields.io/static/v1?label&message=CSS&color=green)
