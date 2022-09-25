@@ -25,7 +25,7 @@
 
 .list-item {
     float: left;
-    font-size: 30px;
+    font-size: 24px;
     margin: 0px 10px;
     color: #00000056;
 }
@@ -36,7 +36,7 @@
 
 .button-group {
     float: right;
-    margin: -80px 60px 0px 0px;
+    margin: -90px 60px 0px 0px;
 }
 
 .nav-button {
@@ -53,11 +53,11 @@
 
 /* banner section start  */
 .banner-container {
-    margin: 40px;
+    margin: 80px 40px;
 }
 
 .heading-text {
-    font-size: 90px;
+    font-size: 80px;
     width: 600px;
     line-height: 100px;
     color: #3C2F60;
@@ -70,14 +70,14 @@
 .description {
     color: #00000056;
     margin: 30px 0px;
-    font-size: 24px;
-    width: 600px;
+    font-size: 20px;
+    width: 500px;
 }
 
 .banner-container img {
     position: absolute;
     right: 0px;
     top: 120px;
-    width: 600px;
+    width: 850px;
 }
 /* banner section end  */
